@@ -1,0 +1,22 @@
+body {
+    background-color: blueviolet;
+}
+
+.text-deimian {
+    color: bisque;
+}
+
+.my-buttom {
+    background-color: brown;
+    color: white;
+    border: none;
+    padding: 5px 15px;
+    margin: 100px;
+    border-radius: 5px;
+}
+
+.my-buttom:hover {
+    background-color: rgb(166, 57, 57);
+    color: black;
+    transition: ease-in .1s;
+}
